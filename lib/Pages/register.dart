@@ -73,6 +73,7 @@ class UserRegisteration extends StatelessWidget {
                   ),
                   const SizedBox(
                     height: 10,
+                    
                   ),
                   //dropdownfields
                   btnDropdown(
